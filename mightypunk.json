@@ -1,0 +1,107 @@
+{
+  "gifs":[
+    "GIF-220109_082316.gif",
+    "GIF-220126_191419.gif",
+    "GIF-220113_095442.gif",
+    "GIF-220127_141746.gif",
+    "GIF-220113_155543.gif",
+    "GIF-220128_174441.gif",
+    "GIF-220117_114833.gif",
+    "GIF-220129_171611.gif",
+    "GIF-220118_120632.gif",
+    "GIF-220130_181637.gif",
+    "GIF-220123_141153.gif",
+    "GIF-220130_230018.gif",
+    "GIF-220124_121233.gif",
+    "GIF-220131_194746.gif",
+    "GIF-220124_170912.gif",
+    "GIF-220125_161155.gif",
+    "GIF-220125_183934.gif",
+    "GIF-220125_222442.gif"],
+    "gif_root_endpoint":"https://raw.githubusercontent.com/mightypunk/src/main/iloveimg-compressed/",
+    "banner":"https://raw.githubusercontent.com/mightypunk/src/main/iloveimg-compressed/MightyPunkBanner.png",
+    "banner_outline":"https://raw.githubusercontent.com/mightypunk/src/main/iloveimg-compressed/MightyPunksShadowOutline.png",
+    "logo":"https://raw.githubusercontent.com/mightypunk/src/main/iloveimg-compressed/Tak%20berjudul22_20220113140343.png",
+    "welcome_text":"Welcome to MightyPunks Club",
+    "about_title":"ABOUT MIGHTYPUNKS",
+    "about_text":"A total of 555 digital collectible living on polygon blockchain. Owning of MightyPunks not only gives you ownership over the coolest jpegs but a lot of Benefits on future.",
+    "benefits_title":"After 555 NFT MightyPunks completed we starting a Huge project with Game developer & collabs With various influencers and starting a Marketing. In future holders will benefit from Token $MGHT Every MightyPunks stake can be used to buy items or sell on market. The proceeds from the sale will be used for additional project funds in the future.",
+    "roadmap":[
+      {
+      "percentage":10,
+      "points":[
+      "Drop 100 MightyPunks", 
+      "Building Community on Dicord", 
+      "Giveaways to MightyPunks Holders", "MightyPunks have 50+ Owners"
+      ]
+      },
+      {
+      "percentage":10,
+      "points":[
+      "Drop 100 MightyPunks", 
+      "Building Community on Dicord", 
+      "Giveaways to MightyPunks Holders", "MightyPunks have 50+ Owners"
+      ]
+      },
+      {
+      "percentage":20,
+      "points":[
+      "Drop 100 MightyPunks", 
+      "Collabs with Another Project", 
+      "Giveaways to random Followers on Social Media ", "MightyPunks have 100+ Owners"
+      ]
+      },
+      {
+      "percentage":30,
+      "points":[
+      "Drop 100 MightyPunks", 
+     "Collabs with Another Project", 
+      "Invite contest on discord with prizepool 0.5 ETH." 
+      ]
+      },
+      {
+      "percentage":40,
+      "points":[
+      "Drop 100 MightyPunks ", 
+      "Airdrops For MightyPunks holders ", 
+      "Collabs with Various influencer & Start Marketing."
+      ]
+      },
+      {
+      "percentage":50,
+      "points":[
+      "Drop 100 MightyPunks", 
+      "Whitelist for future project "
+      ]
+      },
+      {
+      "percentage":75,
+      "points":[
+      "Drop 55 MightyPunks", 
+      "Community Giveaways for holders ", 
+      "Twitter shill raid Prize Pool 0.5 ETH."
+      ]
+      },
+      {
+      "percentage":80,
+      "points":[
+      "SuperMightyPunks Launch, Backed by MightyPunks. if you were previously your owner MightyPunks you will receive SuperMightyPunks."
+      ]
+      },
+      {
+      "percentage":90,
+      "points":[
+      "Stake feature added ", 
+      "Creating Token $MGHT on Polygon Blockchain"
+      ]
+      },
+       {
+      "percentage":99,
+      "points":[
+      "There's never a 100%, the community goes growing on forever!"
+      ]
+      }
+      ],
+      "roadmap_status":10
+    
+}
